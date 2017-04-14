@@ -1,0 +1,8 @@
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\bin\Debug\prjFormClasse.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\bin\Debug\prjFormClasse.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\obj\x86\Debug\prjFormClasse.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\obj\x86\Debug\prjFormClasse.frmFormClasse.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\obj\x86\Debug\prjFormClasse.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\obj\x86\Debug\prjFormClasse.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\obj\x86\Debug\prjFormClasse.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjEquacaoSegundoGrau\prjFormClasse\prjFormClasse\obj\x86\Debug\prjFormClasse.pdb
